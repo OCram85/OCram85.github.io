@@ -1,3 +1,8 @@
+---
+redirect_to:
+- https://OCram85.com
+---
+
 # About
 
 This repository is archived.
